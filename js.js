@@ -1,0 +1,1 @@
+window.alert("Sorry there are no designs yet")
